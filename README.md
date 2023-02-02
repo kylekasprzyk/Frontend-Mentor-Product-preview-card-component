@@ -40,7 +40,7 @@ Mobile at 375px
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://kylekasprzyk.github.io/Frontend-Mentor-Product-preview-card-component/)
 
 ## My process
 
