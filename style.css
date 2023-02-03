@@ -110,7 +110,8 @@
   }
 
   .product-heading {
-      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.3em;
   }
 
   .product-name {
