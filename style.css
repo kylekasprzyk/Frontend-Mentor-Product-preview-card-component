@@ -142,7 +142,7 @@ h6 {
 }
 
 .button-holder:hover {
-    background-color: #1a4031;
+    background-color: hsl(var(--clr-very-dark-blue));
 }
 
 @media screen and (min-width: 600px) {
