@@ -32,8 +32,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-Rp7ja0QZh9)
-- [Live Site URL](https://kylekasprzyk.github.io/Frontend-Mentor-Product-preview-card-component/)
+[Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-Rp7ja0QZh9)
+
+[Live Site URL](https://kylekasprzyk.github.io/Frontend-Mentor-Product-preview-card-component/)
 
 ## Built with
 
